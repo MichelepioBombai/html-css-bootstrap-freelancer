@@ -1,15 +1,17 @@
-/* INIZIO CLASSI DI DEBUG DA RIMUOVERE */
 
-
-
+/* HEADER */
 
 .navbar{
 	background-color: #2c3e50;
 }
 
-.navbar-toggler-icon{
-	color: white;
+/* JUMBOTRON */
+
+#jumbotron{
+	background-color: #1abc9c;
 }
+
+/* PORTFOLIO */
 
 img{
 	width: 100%;
@@ -17,14 +19,12 @@ img{
 	
 }
 
-#jumbotron{
-	background-color: #1abc9c;
-}
-
+/* ABOUT */
 
 #about {
 	background-color: #1abc9c;
 }
+
 
 .download{
 	background-color: #1abc9c;
@@ -33,5 +33,28 @@ img{
 	border-radius: 10px;
 	padding: 7px 10px;
 	margin-top: 50px;
+}
 
+/* CONTACTS */
+
+.btn-contacts{
+	background-color: #1abc9c;
+	border: none;
+	color: white;
+	padding: 7px 12px;
+	border-radius: 5px;
+}
+
+
+
+/* FOOTER */
+
+.upper-footer{
+	background-color: #3a546d;
+}
+
+
+
+.bottom-footer{
+	background-color: #2c3e50;
 }
